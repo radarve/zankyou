@@ -1,2 +1,2 @@
-zankyou
+zankyou (to another remote)
 =======
