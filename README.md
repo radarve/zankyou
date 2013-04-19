@@ -1,4 +1,2 @@
-zankyou
+zankyou (feature-1 plus resolved conflict)
 =======
-
-This change should make a conflict!
